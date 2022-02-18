@@ -14,4 +14,5 @@ GCALLS_TEST is a web-based application that allows you to make phone calls over 
 ## Notes
 
 1. You should use Mozilla Firefox for the best user experience
+2. There are 2 pre-loaded accounts on the server: the admin account (username: admin, password: 123456) and the non-admin account (username: abcxyz123, password: 123456)
 
