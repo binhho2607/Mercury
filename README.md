@@ -1,6 +1,6 @@
-# GCALLS_TEST
+# Mercury
 
-GCALLS_TEST is a web-based application that allows you to make phone calls over SIP. It is integrated with a token-based authentication mechanism that allows the server to keep track of user-specific information such as their name, URI, IP address, and browser information. It is built with a user-friendly graphic interface to maximize user experience while deliver the functionalities that are needed.
+Mercury is a web-based application that allows you to make phone calls over SIP. It is integrated with a token-based authentication mechanism that allows the server to keep track of user-specific information such as their name, URI, IP address, and browser information. It is built with a user-friendly graphic interface to maximize user experience while deliver the functionalities that are needed.
 
 ## Installation
 
