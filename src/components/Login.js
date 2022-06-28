@@ -39,7 +39,7 @@ const Login = ({setToken,getUser}) => {
     return(
         <div className='login_container' >
         <div className='login-wrapper'>
-          <h1 className='logo'>GCALLS_TEST</h1>
+          <h1 className='logo'>Mercury</h1>
     <form onSubmit={handleSubmit} className='shift_down_login'>
       <label className='center' style={{color:'#7e1cc9'}}>
         Username
